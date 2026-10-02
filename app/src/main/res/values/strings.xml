@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_PRAC4_RODRIGUEZ_MORALES</string>
+    <string name="p1titulo">Envio de parametros entre actividades</string>
+    <string name="p1bl1">Ingrese su nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1btn1">Enviar datos</string>
+    <string name="p1btn2">Espera de resultado</string>
+
+    //Parametros pantalla 2 -------------------------------------------------------
+
+    <string name="p2titulo">Recepcion de informacion</string>
+    <string name="p1Lbl1">La informacion proporcionada es</string>
+
+    //Parametros pantalla 3 -------------------------------------------------------
+
+    <string name="p3titulo">Regreso parametros</string>
+    <string name="p3Lbl1">Recepcion de informacion</string>
+    <string name="p3btn1">Regreso estatus</string>
+    <string name="p3btn2">Cancelo informacion</string>
+
+
+</resources>
